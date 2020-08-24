@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        Essa aqui é a segunda versão do Appe!
         </p>
         <a
           className="App-link"
@@ -16,7 +16,6 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Essa aqui é a segunda versão do Appe!
         </a>
       </header>
     </div>
